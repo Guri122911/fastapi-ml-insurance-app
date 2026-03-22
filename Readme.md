@@ -50,4 +50,4 @@ docker run -p 8000:8000 fastapi-insurance
 
 ## Author
 
-Gursewak Singh
+Gursewak Singh 
